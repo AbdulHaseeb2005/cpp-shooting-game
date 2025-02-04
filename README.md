@@ -1,7 +1,33 @@
 # UNIVERSITY-PROJECT-1-SEM-PF
 br
+C++ Shooting Game Project
+ Shooting game having file handling, after 5 hits its shows a bonus enemy and show the score, name and at which time game is player of previous player.
+PROPOSAL:
+1.	Introduction 
+This document outlines a simple C++ shooting game.
+2.	Game Concept
+•	Gameplay: 
+o	Control a character and shoot enemies. 
+•	Mechanics: 
+o	Movement (WASD). • 
+o	Shooting (mouse or keyboard). • 
+o	Simple enemies. 
+3.	Implementation
+•	Language: C++ 
+4.	Features
+•	Single-player mode. 
+5.	Development 
+•	Phase 1: Setup, basic movement. 
+•	Phase 2: Enemies, shooting. 
+•	Phase 3: Refinement. 
+6.	Conclusion
+ This project provides a basic foundation for C++ game development. 
+7.	Note: 
+This is a simplified proposal. Further details and refinements will be necessary as the development process progresses.
+
 Easy Shooting Game Screenshoot
 br
 ![image](https://github.com/user-attachments/assets/636a5f2c-b9a9-411a-aa4c-cc3f57b0b8a4)
-![image](https://github.com/user-attachments/assets/90f05cd1-a170-49b6-8815-4683d9e5ab5f)
-![image](https://github.com/user-attachments/assets/d405336d-5f36-4d58-8378-614bc2b85b5a)
+![image](https://github.com/user-attachments/assets/0675f4b5-1922-4781-aed9-00cbc9353613)
+![image](https://github.com/user-attachments/assets/fbe333c4-5bc3-4715-bc4e-8d8a70d3cd50)
+
