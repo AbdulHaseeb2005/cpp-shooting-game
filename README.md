@@ -1,4 +1,4 @@
-# UNIVERSITY-PROJECT-1-SEM-PF
+# UNIVERSITY-PROJECT-1-SEM-PF (SHOOTING GAME PROJECT IN C++)
 Simple
 C++ Shooting Game Project
  Shooting game having file handling, after 5 hits its shows a bonus enemy and show the score, name and at which time game is player of previous player.
