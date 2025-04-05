@@ -26,7 +26,7 @@ o	Simple enemies.
 This is a simplified proposal. Further details and refinements will be necessary as the development process progresses.
 
 Easy Shooting Game Screenshoot
-br
+
 ![image](https://github.com/user-attachments/assets/636a5f2c-b9a9-411a-aa4c-cc3f57b0b8a4)
 ![image](https://github.com/user-attachments/assets/0675f4b5-1922-4781-aed9-00cbc9353613)
 ![image](https://github.com/user-attachments/assets/fbe333c4-5bc3-4715-bc4e-8d8a70d3cd50)
